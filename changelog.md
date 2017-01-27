@@ -1,33 +1,11 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
+Team membership:  Billy Wong (Captain) & Jason Chan (Mate)  
+Team conventions: Allman notation, markdown for changelog, must edit changelog after every change
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
-
-Release Date: Jul 26, 2027
-
-## New Components
-
--   controllers
-
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
+## Version 1.0 ##
+### Added 01-26-17 ###
+-  Set up repository and added changelog
 
 
