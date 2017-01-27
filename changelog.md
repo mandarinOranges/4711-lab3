@@ -7,6 +7,9 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ## Version 1.0 ##
 
 ### Added 01-27-17 ###
+-  Signing key added
+
+### Added 01-27-17 ###
 -  Fixed issues in application/view
 
 ### Added 01-27-17 ###
