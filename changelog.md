@@ -6,6 +6,9 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## Version 1.0 ##
 
+### Added 01-27-17 ###
+-  Static to Trivial Website Conversion
+
 ### Added 01-26-17 ###
 -  Synch changes merged to feature branch
 
